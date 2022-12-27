@@ -1,4 +1,5 @@
 // cppstringx - C++ String Extensions
+// Link: https://github.com/squeakycode/cppstringx
 // Version: 1.0.0
 // Minimum required C++ Standard: C++11
 // License: BSD 3-Clause License
